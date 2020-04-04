@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Taha Zeybek",
+      "department": "kolici",
+      "salary": "5000",
+      "id": 1
+    },
+    {
+      "name": "Fathi Çiçek",
+      "department": "bankacı",
+      "salary": "2355",
+      "id": 2
+    },
+    {
+      "name": "Taha Zeybek",
+      "department": "bankacı",
+      "salary": "5065",
+      "id": 3
+    },
+    {
+      "name": "melis",
+      "department": "Yazılım",
+      "salary": "5000",
+      "id": 4
+    }
+  ]
+}
